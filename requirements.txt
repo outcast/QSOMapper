@@ -1,0 +1,10 @@
+# Requirements for QSOMapper adif-parse.py
+# Notes:
+# - The code imports `adif_io` (package name may vary). If `adif_io` isn't available via pip,
+#   try `adif-io` or install from source. Adjust as needed.
+# - Pins are conservative; remove or update versions to suit your environment.
+
+adif-io>=0.6.0
+xmltodict>=0.12.0
+requests>=2.25.0
+pandas>=1.1.0
