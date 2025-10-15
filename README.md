@@ -1,5 +1,7 @@
 # QSOMapper
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 Simple tool to parse ADIF logs and create a quick HTML map (`map.html`) of QSOs using OpenLayers.
 
 Prerequisites
